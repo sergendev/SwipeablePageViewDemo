@@ -1,0 +1,15 @@
+{
+  "originHash" : "51a62b70303b9e38f8fe2b36333458b31868136641b8366a95fda213347cb60a",
+  "pins" : [
+    {
+      "identity" : "swipeablepageview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sergendev/SwipeablePageView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44de3973ab74dde7e6f16fb198c8adbd4171a04d"
+      }
+    }
+  ],
+  "version" : 3
+}
