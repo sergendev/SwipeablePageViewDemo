@@ -1,6 +1,6 @@
-# SwipeablePageView Demo App
+# SwipeablePageView Demo
 
-This sample demo app showcases the usage of the **SwipeablePageView** component—a flexible container view designed to enable users to quickly switch between different parts of an app. The app demonstrates both horizontal and vertical swipe configurations with dedicated previews.
+This sample demo app showcases the usage of the **SwipeablePageView** component—a flexible container view designed to enable users to quickly switch between different parts of an app.
 
 ## Overview
 
