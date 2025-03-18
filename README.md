@@ -1,6 +1,6 @@
 # SwipeablePageView Demo App
 
-This sample demo app showcases the usage of the **SwipeablePageView** component—a flexible container view designed to enable users to quickly and intuitively switch between different parts of an app. The app demonstrates both horizontal and vertical swipe configurations with dedicated previews.
+This sample demo app showcases the usage of the **SwipeablePageView** component—a flexible container view designed to enable users to quickly switch between different parts of an app. The app demonstrates both horizontal and vertical swipe configurations with dedicated previews.
 
 ## Overview
 
@@ -32,6 +32,6 @@ The project includes SwiftUI previews for `ContentView` configured with both hor
 2. Ensure the preview canvas is visible.
 3. Switch between the horizontal and vertical previews to test the different swipe configurations.
 
-## Contributing
+---
 
-Contributions, bug reports, and feature requests are welcome! Please feel free to open an issue or submit a pull request.
+If you're reading this, thank you very much! I hope you like my work :)
