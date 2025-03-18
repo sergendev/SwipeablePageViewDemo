@@ -10,8 +10,8 @@ This sample demo app showcases the usage of the **SwipeablePageView** componentâ
 
 ## Requirements
 
-- **Xcode:** 14 or later
-- **Swift:** 5.8 or later
+- **Xcode:** 16 or later
+- **Swift:** 6.0 or later
 - **iOS:** 18.0 and up (due to usage of new SwiftUI APIs such as `Group(subviews:)`)
 
 ## Installation
