@@ -34,4 +34,4 @@ The project includes SwiftUI previews for `ContentView` configured with both hor
 
 ---
 
-If you're reading this, thank you very much! I hope you like my work :)
+Thank you very much! I enjoyed creating this, and I hope you like it as well :)
